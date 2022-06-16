@@ -4,6 +4,10 @@
 
 The hello rails react app is a  project created to teach me how to use the rails react gem with ruby.
 
+## App screenshot
+![screenshot](./screenshot.png)
+
+
 ## Built With
 
 - Ruby
