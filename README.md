@@ -1,24 +1,48 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+The hello rails react app is a  project created to teach me how to use the rails react gem with ruby.
 
-* Ruby version
+## App screenshot
+![screenshot](./screenshot.png)
 
-* System dependencies
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby
+- Ruby on Rails
+- React
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+To get the content of this project locally you need to run this command in your terminal:
+``` bash
+git clone your https://github.com/billionsjoel/hello-rails-react.git
+cd hello rails react
+bundle install
+rails s
+```
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Authors
 
-* ...
+👤 **Atugonza Joel Billions**
+
+- GitHub: [@billionsjoel](https://github.com/billionsjoel)
+- Twitter: [@billionsjoel](https://twitter.com/billionsjoel)
+- LinkedIn: [billionsjoel](https://www.linkedin.com/in/billionsjoel)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to Microverse
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
